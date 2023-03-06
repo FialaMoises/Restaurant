@@ -8,7 +8,11 @@
 
 ## 💻 Projeto de estudo:
 
-Este é um site de blog sobre a OpenAI criado com React. A OpenAI é uma organização que tem como objetivo desenvolver inteligência artificial de forma segura e benéfica para a humanidade. Neste blog, você encontrará artigos, notícias e informações relevantes sobre a OpenAI e o mundo da inteligência artificial. Este site foi desenvolvido com React, uma biblioteca JavaScript popular para a criação de interfaces de usuário interativas. Ele também usa outras ferramentas, como o Bootstrap para o design responsivo e o Markdown para a criação de conteúdo fácil de ler e escrever. Sinta-se à vontade para explorar o site, ler os artigos e contribuir com suas próprias ideias e opiniões sobre a OpenAI.
+O site de restaurante que você criou utilizando React é uma ótima adição para o seu portfólio no GitHub! O site é fácil de navegar e possui uma interface atraente e moderna.
+
+Ao navegar pelas páginas, os usuários podem acessar informações importantes sobre o restaurante, como horários de funcionamento, localização e contato. A página de menu é especialmente impressionante, com fotos vívidas e descrições apetitosas dos pratos.
+
+O código-fonte do site é organizado e fácil de entender, o que significa que outros desenvolvedores podem facilmente revisar e entender o trabalho que você fez. Além disso, você usou React de forma eficaz para criar um site altamente responsivo e interativo, que pode ser facilmente modificado e atualizado no futuro.
 
 ## ✨ Linguagens utilizadas:
 

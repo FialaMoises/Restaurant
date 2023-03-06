@@ -4,7 +4,7 @@
 # Projeto -Restaurant utilizando React
 
 !https://animated-sorbet-85aa4f.netlify.app
-![Restaurant](https://github.com/FialaMoises/OpenIA/blob/main/imagem_2023-02-23_201808939.png)
+![Restaurant](https://github.com/FialaMoises/Restaurant/blob/main/imagem_2023-03-06_114101293.png)
 
 ## 💻 Projeto de estudo:
 

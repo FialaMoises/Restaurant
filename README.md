@@ -8,7 +8,7 @@ https://animated-sorbet-85aa4f.netlify.app
 
 ## 💻 Projeto de estudo:
 
-O site de restaurante que você criou utilizando React é uma ótima adição para o seu portfólio no GitHub! O site é fácil de navegar e possui uma interface atraente e moderna.
+O site de restaurante criado utilizando React! O site é fácil de navegar e possui uma interface atraente e moderna.
 
 Ao navegar pelas páginas, os usuários podem acessar informações importantes sobre o restaurante, como horários de funcionamento, localização e contato. A página de menu é especialmente impressionante, com fotos vívidas e descrições apetitosas dos pratos.
 
